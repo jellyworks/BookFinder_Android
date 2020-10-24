@@ -1,5 +1,5 @@
-impleAdapterEx
-Example of SimpleAdapter in Android
+# BookFinder 
+Book Finder app with Kakao Api in android
 
 ## Screeshots
 <div>
